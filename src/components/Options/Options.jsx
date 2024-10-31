@@ -1,5 +1,5 @@
 
-import './Options.module.css';
+import s from './Options.module.css';
 
 const Options = ({ feedbackTypes, updateFeedback, resetFeedback, totalFeedback }) => {
   return (
