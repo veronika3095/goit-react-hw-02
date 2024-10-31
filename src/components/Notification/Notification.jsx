@@ -1,5 +1,5 @@
 
-import s from './Notification.module.css';
+import './Notification.module.css';
 
 const Notification = ({ message }) => {
   return <p>{message}</p>;
